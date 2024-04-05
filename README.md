@@ -1,5 +1,5 @@
 # EgoTAP
-Official repository of the "Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting" (CVPR 2024)
+Official repository of the "Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting" (CVPR 2024 Highlight)
 
 ## [arXiv](https://arxiv.org/abs/2402.18330) / [CVPR Open Access](https://openaccess.thecvf.com/menu)
 Links will be updated as they are uploaded.
