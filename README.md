@@ -1,7 +1,7 @@
 # EgoTAP - CVPR 2024 Highlight
 Official repository of the "Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting"
 
-## [arXiv](https://arxiv.org/abs/2402.18330) / [CVPR Open Access](https://openaccess.thecvf.com/menu)
+## [arXiv](https://arxiv.org/abs/2402.18330) / [CVPR Open Access](https://openaccess.thecvf.com/content/CVPR2024/papers/Kang_Attention-Propagation_Network_for_Egocentric_Heatmap_to_3D_Pose_Lifting_CVPR_2024_paper.pdf)
 Links will be updated as they are uploaded.
 
 https://github.com/tho-kn/EgoTAP/assets/54742258/fc6a1f4d-3df9-4f96-a755-067468843c40
