@@ -56,7 +56,7 @@ You can install other required packages with requirements.txt
 
 ### Training
 
-You can train the models from scratch or use [trained weights](https://drive.google.com/drive/folders/1l5DsnC8jtlyxXGveNsTcC744mPn_oFh1?usp=sharing). The weights are re-trained using this refactored code. The model weights will be saved in the `log_dir` specified in `options/constants.py`. The provided weights should be placed in the same directory.
+You can train the models from scratch or use [trained weights](https://github.com/tho-kn/EgoTAP/releases/tag/v1.0.0). The weights are re-trained using this refactored code. The model weights will be saved in the `log_dir` specified in `options/constants.py`. The provided weights should be placed in the same directory.
 
 #### Heatmap Estimator
 
